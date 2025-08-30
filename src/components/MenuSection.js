@@ -12,19 +12,19 @@ const MenuSection = () => {
       <div className="container">
         <h1 className='menu-text'>Меню</h1>
         <div className="menu-items">
-        <Link to="/botanist-bar/kitchen-area">
-          <div className="items">
+          <Link to="/rot-bar/kitchen-area">
+            <div className="items">
               <img src={KitchenPack} alt="кухонна зона" className="menu-img" />
-              <h2 className="items-name">Кухня</h2>   
-              <img src={ArrowIcon} alt='стрілка' className='arrow-icon'/>  
-          </div>
+              <h2 className="items-name">Кухня</h2>
+              <img src={ArrowIcon} alt='стрілка' className='arrow-icon' />
+            </div>
           </Link>
-          <Link to="/botanist-bar/bar-area">
-          <div className="items">
+          <Link to="/rot-bar/bar-area">
+            <div className="items">
               <img src={BarIcon} alt="барна зона" className="menu-img" />
               <h2 className="items-name">Бар</h2>
-              <img src={ArrowIcon} alt='стрілка' className='arrow-icon'/>
-          </div>
+              <img src={ArrowIcon} alt='стрілка' className='arrow-icon' />
+            </div>
           </Link>
         </div>
       </div>

@@ -14,7 +14,7 @@ const CategoryPage = () => {
       return <KitchenAreaPage />;
     } else if (categoryId === 'bar-area') {
       return <BarAreaPage />;
-    } else if (categoryId === 'botanist-bar') {
+    } else if (categoryId === 'rot-bar') {
       return <MenuSection />;
     }
     // Добавьте другие категории по аналогии

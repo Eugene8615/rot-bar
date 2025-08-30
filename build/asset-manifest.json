@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rot-bar/static/css/main.11aad78e.css",
-    "main.js": "/rot-bar/static/js/main.7e232ec5.js",
+    "main.js": "/rot-bar/static/js/main.e69854e4.js",
     "static/media/PSX_20220216_205806.jpg": "/rot-bar/static/media/PSX_20220216_205806.1fdd10c774513eef7b6a.jpg",
     "static/media/zombi.png": "/rot-bar/static/media/zombi.2ad30d8daf159b290c66.png",
     "static/media/godfather.png": "/rot-bar/static/media/godfather.f0d10811d08fbdfe7a1c.png",
@@ -34,10 +34,10 @@
     "static/media/cross.svg": "/rot-bar/static/media/cross.430e9fbd872916eed69f49417d19d8cf.svg",
     "static/media/arrow.svg": "/rot-bar/static/media/arrow.268412136fbfce006ce355cc3301e836.svg",
     "main.11aad78e.css.map": "/rot-bar/static/css/main.11aad78e.css.map",
-    "main.7e232ec5.js.map": "/rot-bar/static/js/main.7e232ec5.js.map"
+    "main.e69854e4.js.map": "/rot-bar/static/js/main.e69854e4.js.map"
   },
   "entrypoints": [
     "static/css/main.11aad78e.css",
-    "static/js/main.7e232ec5.js"
+    "static/js/main.e69854e4.js"
   ]
 }

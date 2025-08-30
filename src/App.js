@@ -14,8 +14,8 @@ function App() {
         <Header />
         <Slider />
         <Routes>
-          <Route path="/botanist-bar" element={<MenuSection />} />
-          <Route path="/botanist-bar/:categoryId" element={<CategoryPage />} />
+          <Route path="/rot-bar" element={<MenuSection />} />
+          <Route path="/rot-bar/:categoryId" element={<CategoryPage />} />
         </Routes>
         <Footer />
       </div>

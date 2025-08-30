@@ -1,0 +1,14 @@
+.icon-list {
+    display: flex;
+    justify-content: center;
+    gap: 45px;
+}
+
+.footer-icon {
+    width: 45px;
+}
+
+.footer-item {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}

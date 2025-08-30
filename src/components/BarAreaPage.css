@@ -1,0 +1,74 @@
+* {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.section {
+    margin: 0 10px 0 10px;
+}
+
+p {
+    font-size: 25px;
+    margin: 0;
+    color: #fff;
+}
+
+.section-name {
+    text-align: center;
+    font-size: 40px;
+}
+
+.bar-img {
+    width: 100px;
+    height: 125px;
+    padding-right: 10px;
+}
+
+.bar-items {
+    display: flex;
+    padding: 10px 0 10px 0;
+    border-bottom: 1px solid #ffffff78;
+}
+
+.cocktails-item {
+    font-size: 20px;
+}
+
+.price {
+    font-size: 35px;
+    color: green;
+    margin-left: auto;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.btn-collection {
+    border: solid 1px #fff;
+    display: flex;
+    overflow-x: auto;
+    margin: 13px 0 13px 0;
+}
+
+.bar-btn {
+ white-space: nowrap;
+ color: #fff;
+ background-color: black;
+ padding: 0 30px 0 30px;
+ border: solid 1px;
+ font-size: 20px;
+ padding: 7px 50px 7px 50px;
+}
+
+.heart {
+    width: 25px;
+    position: absolute;
+    margin-right: 10px;
+    right: 0;
+}
+
+.description-dish{
+    font-size: 15px;
+}
+
+.bar-items2 {
+    align-items: center;
+}
